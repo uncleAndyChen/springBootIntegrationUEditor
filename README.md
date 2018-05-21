@@ -1,4 +1,4 @@
-# springBoot 集成百度富文本框 UEditor，多模块方式-
+# springBoot 集成百度富文本框 UEditor，多模块方式
 ## 后台项目
 ### 关键依赖
 ```xml
