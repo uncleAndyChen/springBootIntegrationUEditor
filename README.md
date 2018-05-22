@@ -103,7 +103,7 @@ public class UEditorController {
 ```
 
 ## Demo 页
-见 uEditorDemo.html 以及对应的 uEditorDemo.js
+见 uEditorDemo.html 以及对应的 uEditorDemo.js <br/>
 获取文本框录入的数据，请见 uEditorDemo.js 文件下的 getContent 方法：
 ```
 function getContent() {
