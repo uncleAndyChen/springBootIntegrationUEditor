@@ -9,7 +9,7 @@ ueditor.all.min.js:8 The given range isn't in document.
 ```
 
 ## 上效果图
-![](/../static/img/uEditorDemo.png)
+![](https://github.com/uncleAndyChen/springBootIntegrationUEditor/blob/master/ueditor.frontend/src/main/resources/static/img/uEditorDemo.png)
 
 ## 后台项目
 ### 关键依赖
