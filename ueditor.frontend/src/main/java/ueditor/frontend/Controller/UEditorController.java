@@ -16,7 +16,7 @@ public class UEditorController {
         return "/uEditorDemo";
     }
 
-    @RequestMapping(value="/uEditor/config")
+    @RequestMapping("/uEditor/config")
     public void config(HttpServletRequest request, HttpServletResponse response) {
         response.setContentType("application/json");
         String rootPath = request.getSession().getServletContext().getRealPath("/");
