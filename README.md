@@ -9,7 +9,7 @@
     ```
 
 ## 上效果图
-![](https://github.com/uncleAndyChen/springBootIntegrationUEditor/blob/master/ueditor.frontend/src/main/resources/static/img/uEditorDemo.png)
+![](/ueditor.frontend/src/main/resources/static/img/uEditorDemo.png)
 
 ## 后台项目
 ### 关键依赖
